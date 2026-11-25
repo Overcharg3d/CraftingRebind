@@ -3,7 +3,7 @@
   "id": "craftingrebind",
   "version": "${version}",
   "name": "CraftingRebind",
-  "description": "Adds a keybind to toggle the recipe menu in the side.",
+  "description": "CraftingRebind adds extra recipe book shortcuts that aren't in vanilla Minecraft, each with its own keybind. They work on every screen that has a recipe book, including screens added by other mods.",
   "authors": [ "Overcharg3d" ],
   "contact": {},
   "license": "LGPL-3.0",
@@ -14,6 +14,6 @@
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric-api": "*",
-    "minecraft": ">=26.4-alpha.10"
+    "minecraft": ">=26.1- <26.5-"
   }
 }
