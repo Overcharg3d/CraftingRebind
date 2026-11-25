@@ -1,0 +1,7 @@
+{
+  "key.category.craftingrebind.binds": "CraftingRebind",
+  "key.craftingrebind.toggleRecipeBook": "Toggle Recipe Book",
+  "key.craftingrebind.toggleCraftableOnly": "Toggle Craftable Only",
+  "key.craftingrebind.cycleCategoryTabs": "Cycle Category Tabs",
+  "key.craftingrebind.focusSearchBar": "Focus Search Bar"
+}

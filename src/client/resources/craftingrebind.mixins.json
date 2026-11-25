@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.craftingrebind.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [ "RecipeBookComponentInvoker", "RecipeScreenAccessor" ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
